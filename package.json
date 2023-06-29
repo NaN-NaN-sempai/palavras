@@ -1,0 +1,21 @@
+{
+  "name": "palavras",
+  "version": "1.0.0",
+  "description": "Reuni mais de 1 milhão de palavras de diversos dicionarios e fontes diferentes em um unico arquivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaN-NaN-sempai/palavras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaN-NaN-sempai/palavras/issues"
+  },
+  "homepage": "https://github.com/NaN-NaN-sempai/palavras#readme",
+  "dependencies": {}
+}
